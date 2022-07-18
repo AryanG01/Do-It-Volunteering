@@ -1,5 +1,5 @@
 # DO-IT-Volunteering Website
-Made by Anthony and Aryan 
+Made by Aryan and Anthony 
 
 This project was made using VSCode which requires the Live Server extension to run the webpage.
 Language used: HTML, CSS, JS
