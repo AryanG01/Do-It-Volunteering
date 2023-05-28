@@ -1,24 +1,28 @@
 # DO-IT-Volunteering Website
-Made by Aryan and Anthony 
+Made by Anthony and Aryan 
 
 This project was made using VSCode which requires the Live Server extension to run the webpage.
 Language used: HTML, CSS, JS
 Website can be used to streamline volunteering activities not just from the perspective of the volunteers, but from the organizations managing the manpower to ensure proper management of volunteers especially with overwhelming supply of volunteers in Singapore.
 
 # Files
-**main,dart**: The main file to run the app
+**calendar.html**: HTML file for self-made calendar / event planner in our website
 
-**auth_controller.dart**: Dart file that allows for user authentication before entering the app
+**index.html**: HTML file for the home page before logging in
 
-**firebase_options.dart**: Dart file that allows access to firebase database
+**login.html**: HTML file for the log in / register page 
 
-**splash_screen.dartl**: Dart file that keeps users busy as app loads in the background
+**loggedin.html**: HTML file for the dashboard upon logging in to manage activities
 
-**login_page.dart**: Dart file that generates the login page asking for user credentials
+**calendar.css**: CSS file for the calendar aesthetics
 
-**sign_up_page**: Dart file that generates the sign up page for new users to enter their credentials
+**dashboard.css**: CSS file for the dashboard aesthetics
 
-**welcome_page.dart**: Dart file that generates a welcome page for authenticated users
+**style.css**: CSS file for the general aesthetic of the home page
+
+**app.js**: JS Script file used for the dashboard, home page and login page
+
+**script.js**: JS Script file used for the calendar animations
 
 # Images
 Images used for the website are all included in tne images folder
